@@ -8,4 +8,4 @@ You know the card game named Solo, well for me and my family was hard to note an
 ## First step
 
 You have to select how many players, and type their name
-<img scr="./Readme_photos/1.png">
+<img src="./Readme_photos/1.png">
